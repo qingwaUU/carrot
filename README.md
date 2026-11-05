@@ -1709,6 +1709,14 @@
         <td></td>
         <td><a href="https://aicolors.co/" target="_blank" rel="noopener noreferrer">链接</a></td>
     </tr>
+    <tr>
+        <td>24</td>
+        <td><img src="https://pixattic.com/apple-touch-icon.png" alt="favicon" width="20" height="20"></td>
+        <td><a href="https://pixattic.com/" target="_blank" rel="noopener noreferrer">PixAttic</a></td>
+        <td>免费AI图像提示词库，实测可用、即拷即用的AI绘画提示词</td>
+        <td></td>
+        <td><a href="https://pixattic.com/" target="_blank" rel="noopener noreferrer">链接</a></td>
+    </tr>
 </table>
 
 ## 音频、视频与数字人
@@ -2514,6 +2522,14 @@
         <td></td>
         <td></td>
         <td><a href="https://cooltools.top/ai.html" target="_blank" rel="noopener noreferrer">链接</a></td>
+    </tr>
+    <tr>
+        <td>52</td>
+        <td><img src="https://www.tooloso.com/wp-content/uploads/tooloso-share.png" alt="favicon" width="20" height="20"></td>
+        <td><a href="https://www.tooloso.com/" target="_blank" rel="noopener noreferrer">Tooloso</a></td>
+        <td>免费AI工具目录导航，收录全球优质AI工具，分类清晰每日更新</td>
+        <td></td>
+        <td><a href="https://www.tooloso.com/" target="_blank" rel="noopener noreferrer">链接</a></td>
     </tr>
 </table>
 
